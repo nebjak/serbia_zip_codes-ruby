@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Nebojša Jakovljević"]
   spec.email         = ["nebojsa@nebjak.net"]
   spec.summary       = %q{Easy access to Serbia zip codes}
-  spec.description   = %q{Easy access to Serbia zip codes. Search by zip code or my city name.}
+  spec.description   = %q{Easy access to Serbia zip codes. You can search zip code by city, or city by zip code.}
   spec.homepage      = "http://github.com/nebjak/serbia_zip_codes-ruby"
   spec.license       = "MIT"
 
