@@ -1,0 +1,3515 @@
+---
+  - 
+    city: "Beograd"
+    zip_code: "11000"
+  - 
+    city: "Beograd Vozdovac"
+    zip_code: "11010"
+  - 
+    city: "Beograd Čukarica"
+    zip_code: "11030"
+  - 
+    city: "Beograd Zvezdara"
+    zip_code: "11050"
+  - 
+    city: "Beograd Palilula"
+    zip_code: "11060"
+  - 
+    city: "Novi Beograd"
+    zip_code: "11070"
+  - 
+    city: "Beograd Zemun"
+    zip_code: "11080"
+  - 
+    city: "Beograd Rakovica"
+    zip_code: "11090"
+  - 
+    city: "Kaluđerica"
+    zip_code: "11130"
+  - 
+    city: "Rušanj"
+    zip_code: "11194"
+  - 
+    city: "Borča"
+    zip_code: "11211"
+  - 
+    city: "Ovča"
+    zip_code: "11212"
+  - 
+    city: "Padinska Skela"
+    zip_code: "11213"
+  - 
+    city: "Beli Potok"
+    zip_code: "11223"
+  - 
+    city: "Vrčin"
+    zip_code: "11224"
+  - 
+    city: "Zuce"
+    zip_code: "11225"
+  - 
+    city: "Pinosava"
+    zip_code: "11226"
+  - 
+    city: "Ripanj"
+    zip_code: "11232"
+  - 
+    city: "Ralja"
+    zip_code: "11233"
+  - 
+    city: "Mali Požarevac"
+    zip_code: "11235"
+  - 
+    city: "Ostružnica"
+    zip_code: "11251"
+  - 
+    city: "Sremčica"
+    zip_code: "11253"
+  - 
+    city: "Umka"
+    zip_code: "11260"
+  - 
+    city: "Mala Moštanica"
+    zip_code: "11261"
+  - 
+    city: "Velika Mostanica"
+    zip_code: "11262"
+  - 
+    city: "Surčin"
+    zip_code: "11271"
+  - 
+    city: "Dobanovci"
+    zip_code: "11272"
+  - 
+    city: "Boljevci"
+    zip_code: "11275"
+  - 
+    city: "Jakovo"
+    zip_code: "11276"
+  - 
+    city: "Ugrinovci"
+    zip_code: "11277"
+  - 
+    city: "Bečmen"
+    zip_code: "11279"
+  - 
+    city: "Progar"
+    zip_code: "11280"
+  - 
+    city: "Petrovcic"
+    zip_code: "11282"
+  - 
+    city: "Smederevo"
+    zip_code: "11300"
+  - 
+    city: "Grocka"
+    zip_code: "11306"
+  - 
+    city: "Boleč"
+    zip_code: "11307"
+  - 
+    city: "Begaljica"
+    zip_code: "11308"
+  - 
+    city: "Leštane"
+    zip_code: "11309"
+  - 
+    city: "Lipe"
+    zip_code: "11310"
+  - 
+    city: "Radinac"
+    zip_code: "11311"
+  - 
+    city: "Mihajlovac"
+    zip_code: "11312"
+  - 
+    city: "Mala Krsna"
+    zip_code: "11313"
+  - 
+    city: "Osipaonica"
+    zip_code: "11314"
+  - 
+    city: "Saraorci"
+    zip_code: "11315"
+  - 
+    city: "Golobok"
+    zip_code: "11316"
+  - 
+    city: "Lozovik"
+    zip_code: "11317"
+  - 
+    city: "Miloševac"
+    zip_code: "11318"
+  - 
+    city: "Krnjevo"
+    zip_code: "11319"
+  - 
+    city: "Velika Plana"
+    zip_code: "11320"
+  - 
+    city: "Lugavcina"
+    zip_code: "11321"
+  - 
+    city: "Skobalj"
+    zip_code: "11322"
+  - 
+    city: "Veliko Orašje"
+    zip_code: "11323"
+  - 
+    city: "Staro Selo"
+    zip_code: "11324"
+  - 
+    city: "Markovac"
+    zip_code: "11325"
+  - 
+    city: "Donja Livadica"
+    zip_code: "11326"
+  - 
+    city: "Rakinac"
+    zip_code: "11327"
+  - 
+    city: "Vodanj"
+    zip_code: "11328"
+  - 
+    city: "Vranovo"
+    zip_code: "11329"
+  - 
+    city: "Vinča"
+    zip_code: "11351"
+  - 
+    city: "Mladenovac"
+    zip_code: "11400"
+  - 
+    city: "Vlaška"
+    zip_code: "11406"
+  - 
+    city: "Selevac"
+    zip_code: "11407"
+  - 
+    city: "Velika Krsna"
+    zip_code: "11408"
+  - 
+    city: "Kovačevac"
+    zip_code: "11409"
+  - 
+    city: "Ratari"
+    zip_code: "11411"
+  - 
+    city: "Jagnjilo"
+    zip_code: "11412"
+  - 
+    city: "Pružatovac"
+    zip_code: "11413"
+  - 
+    city: "Velika Ivanča"
+    zip_code: "11414"
+  - 
+    city: "Koraćica"
+    zip_code: "11415"
+  - 
+    city: "Smederevska Palanka"
+    zip_code: "11420"
+  - 
+    city: "Azanja"
+    zip_code: "11423"
+  - 
+    city: "Banicina"
+    zip_code: "11424"
+  - 
+    city: "Kusadak"
+    zip_code: "11425"
+  - 
+    city: "Meljak"
+    zip_code: "11426"
+  - 
+    city: "Vranić"
+    zip_code: "11427"
+  - 
+    city: "Umčari"
+    zip_code: "11430"
+  - 
+    city: "Kolari"
+    zip_code: "11431"
+  - 
+    city: "Drugovac"
+    zip_code: "11432"
+  - 
+    city: "Šepšin"
+    zip_code: "11433"
+  - 
+    city: "Sopot"
+    zip_code: "11450"
+  - 
+    city: "Rogača"
+    zip_code: "11453"
+  - 
+    city: "Sibnica"
+    zip_code: "11454"
+  - 
+    city: "Barajevo"
+    zip_code: "11460"
+  - 
+    city: "Beljina"
+    zip_code: "11461"
+  - 
+    city: "Veliki Borak"
+    zip_code: "11462"
+  - 
+    city: "Obrenovac"
+    zip_code: "11500"
+  - 
+    city: "Barič"
+    zip_code: "11504"
+  - 
+    city: "Zabrežje"
+    zip_code: "11505"
+  - 
+    city: "Draževac"
+    zip_code: "11506"
+  - 
+    city: "Stubline"
+    zip_code: "11507"
+  - 
+    city: "Grabovac"
+    zip_code: "11508"
+  - 
+    city: "Skela"
+    zip_code: "11509"
+  - 
+    city: "Lazarevac"
+    zip_code: "11550"
+  - 
+    city: "Vreoci"
+    zip_code: "11560"
+  - 
+    city: "Dudovica"
+    zip_code: "11561"
+  - 
+    city: "Junkovac"
+    zip_code: "11562"
+  - 
+    city: "Veliki Crljeni"
+    zip_code: "11563"
+  - 
+    city: "Stepojevac"
+    zip_code: "11564"
+  - 
+    city: "Barosevac"
+    zip_code: "11565"
+  - 
+    city: "Rudovci"
+    zip_code: "11566"
+  - 
+    city: "Mirosaljci"
+    zip_code: "11567"
+  - 
+    city: "Požarevac"
+    zip_code: "12000"
+  - 
+    city: "Brezane"
+    zip_code: "12205"
+  - 
+    city: "Bradarac"
+    zip_code: "12206"
+  - 
+    city: "Dubravica"
+    zip_code: "12207"
+  - 
+    city: "Kostolac"
+    zip_code: "12208"
+  - 
+    city: "Kličevac"
+    zip_code: "12209"
+  - 
+    city: "Veliko Gradište"
+    zip_code: "12220"
+  - 
+    city: "Majilovac"
+    zip_code: "12221"
+  - 
+    city: "Braničevo"
+    zip_code: "12222"
+  - 
+    city: "Golubac"
+    zip_code: "12223"
+  - 
+    city: "Dobra"
+    zip_code: "12224"
+  - 
+    city: "Bratinac"
+    zip_code: "12225"
+  - 
+    city: "Topolovnik"
+    zip_code: "12226"
+  - 
+    city: "Vinci"
+    zip_code: "12229"
+  - 
+    city: "Brnjica"
+    zip_code: "12230"
+  - 
+    city: "Kučevo"
+    zip_code: "12240"
+  - 
+    city: "Neresnica"
+    zip_code: "12242"
+  - 
+    city: "Srednjevo"
+    zip_code: "12253"
+  - 
+    city: "Rabrovo"
+    zip_code: "12254"
+  - 
+    city: "Duboka"
+    zip_code: "12255"
+  - 
+    city: "Voluja"
+    zip_code: "12256"
+  - 
+    city: "Klenje"
+    zip_code: "12258"
+  - 
+    city: "Petrovac Na Mlavi"
+    zip_code: "12300"
+  - 
+    city: "Ranovac"
+    zip_code: "12304"
+  - 
+    city: "Melnica"
+    zip_code: "12305"
+  - 
+    city: "Veliko Laole"
+    zip_code: "12306"
+  - 
+    city: "Burovac"
+    zip_code: "12307"
+  - 
+    city: "Šetonje"
+    zip_code: "12309"
+  - 
+    city: "Malo Crniće"
+    zip_code: "12311"
+  - 
+    city: "Smoljinac"
+    zip_code: "12312"
+  - 
+    city: "Bozevac"
+    zip_code: "12313"
+  - 
+    city: "Veliko Selo"
+    zip_code: "12314"
+  - 
+    city: "Rašanac"
+    zip_code: "12315"
+  - 
+    city: "Krepoljin"
+    zip_code: "12316"
+  - 
+    city: "Osanica"
+    zip_code: "12317"
+  - 
+    city: "Vukovac"
+    zip_code: "12318"
+  - 
+    city: "Žagubica"
+    zip_code: "12320"
+  - 
+    city: "Laznica"
+    zip_code: "12321"
+  - 
+    city: "Suvi Do"
+    zip_code: "12322"
+  - 
+    city: "Aleksandrovac"
+    zip_code: "12370"
+  - 
+    city: "Vlaški Do"
+    zip_code: "12371"
+  - 
+    city: "Poljana"
+    zip_code: "12372"
+  - 
+    city: "Simićevo"
+    zip_code: "12373"
+  - 
+    city: "Žabari"
+    zip_code: "12374"
+  - 
+    city: "Porodin"
+    zip_code: "12375"
+  - 
+    city: "Valjevo"
+    zip_code: "14000"
+  - 
+    city: "Brankovina"
+    zip_code: "14201"
+  - 
+    city: "Rajković"
+    zip_code: "14202"
+  - 
+    city: "Dračić"
+    zip_code: "14203"
+  - 
+    city: "Divčibare"
+    zip_code: "14204"
+  - 
+    city: "Lelić"
+    zip_code: "14205"
+  - 
+    city: "Poćuta"
+    zip_code: "14206"
+  - 
+    city: "Pećka"
+    zip_code: "14207"
+  - 
+    city: "Ub"
+    zip_code: "14210"
+  - 
+    city: "Radljevo"
+    zip_code: "14211"
+  - 
+    city: "Brgule"
+    zip_code: "14212"
+  - 
+    city: "Pambukovica"
+    zip_code: "14213"
+  - 
+    city: "Banjani"
+    zip_code: "14214"
+  - 
+    city: "Popučke"
+    zip_code: "14221"
+  - 
+    city: "Divci"
+    zip_code: "14222"
+  - 
+    city: "Slovac"
+    zip_code: "14223"
+  - 
+    city: "Lajkovac"
+    zip_code: "14224"
+  - 
+    city: "Bogovadja"
+    zip_code: "14225"
+  - 
+    city: "Jabučje"
+    zip_code: "14226"
+  - 
+    city: "Ljig"
+    zip_code: "14240"
+  - 
+    city: "Mionica"
+    zip_code: "14242"
+  - 
+    city: "Gornja Toplica"
+    zip_code: "14243"
+  - 
+    city: "Brezde"
+    zip_code: "14244"
+  - 
+    city: "Slavkovica"
+    zip_code: "14245"
+  - 
+    city: "Belanovica"
+    zip_code: "14246"
+  - 
+    city: "Pricevic"
+    zip_code: "14251"
+  - 
+    city: "Kamenica"
+    zip_code: "14252"
+  - 
+    city: "Osečina"
+    zip_code: "14253"
+  - 
+    city: "Komirić"
+    zip_code: "14254"
+  - 
+    city: "Stave"
+    zip_code: "14255"
+  - 
+    city: "Šabac"
+    zip_code: "15000"
+  - 
+    city: "Mačvanski Pričinović"
+    zip_code: "15211"
+  - 
+    city: "Drenovac"
+    zip_code: "15212"
+  - 
+    city: "Orid"
+    zip_code: "15213"
+  - 
+    city: "Debeljača"
+    zip_code: "15214"
+  - 
+    city: "Provo"
+    zip_code: "15215"
+  - 
+    city: "Koceljeva"
+    zip_code: "15220"
+  - 
+    city: "Svileuva"
+    zip_code: "15221"
+  - 
+    city: "Kamenica"
+    zip_code: "15222"
+  - 
+    city: "Cerovac"
+    zip_code: "15224"
+  - 
+    city: "Vladimirci"
+    zip_code: "15225"
+  - 
+    city: "Draginje"
+    zip_code: "15226"
+  - 
+    city: "Donje Crniljevo"
+    zip_code: "15227"
+  - 
+    city: "Varna"
+    zip_code: "15232"
+  - 
+    city: "Metlić"
+    zip_code: "15233"
+  - 
+    city: "Tekeriš"
+    zip_code: "15234"
+  - 
+    city: "Dobrić"
+    zip_code: "15235"
+  - 
+    city: "Loznica"
+    zip_code: "15300"
+  - 
+    city: "Korenita"
+    zip_code: "15302"
+  - 
+    city: "Tršić"
+    zip_code: "15303"
+  - 
+    city: "Petlovača"
+    zip_code: "15304"
+  - 
+    city: "Lipolist"
+    zip_code: "15305"
+  - 
+    city: "Prnjavor Mačvanski"
+    zip_code: "15306"
+  - 
+    city: "Lešnica"
+    zip_code: "15307"
+  - 
+    city: "Jadranska Lešnica"
+    zip_code: "15308"
+  - 
+    city: "Brezjak"
+    zip_code: "15309"
+  - 
+    city: "Ribari"
+    zip_code: "15310"
+  - 
+    city: "Draginac"
+    zip_code: "15311"
+  - 
+    city: "Zavlaka"
+    zip_code: "15312"
+  - 
+    city: "Bela Crkva"
+    zip_code: "15313"
+  - 
+    city: "Krupanj"
+    zip_code: "15314"
+  - 
+    city: "Zajaca"
+    zip_code: "15315"
+  - 
+    city: "Banja Koviljača"
+    zip_code: "15316"
+  - 
+    city: "Donja Borina"
+    zip_code: "15317"
+  - 
+    city: "Mali Zvornik"
+    zip_code: "15318"
+  - 
+    city: "Uzovnica"
+    zip_code: "15319"
+  - 
+    city: "Ljubovija"
+    zip_code: "15320"
+  - 
+    city: "Radalj"
+    zip_code: "15321"
+  - 
+    city: "Velika Reka"
+    zip_code: "15322"
+  - 
+    city: "Donja Orovica"
+    zip_code: "15323"
+  - 
+    city: "Drlace"
+    zip_code: "15324"
+  - 
+    city: "Bogatić"
+    zip_code: "15350"
+  - 
+    city: "Zminjak"
+    zip_code: "15352"
+  - 
+    city: "Majur"
+    zip_code: "15353"
+  - 
+    city: "Štitar"
+    zip_code: "15354"
+  - 
+    city: "Crna Bara"
+    zip_code: "15355"
+  - 
+    city: "Glušci"
+    zip_code: "15356"
+  - 
+    city: "Klenje"
+    zip_code: "15357"
+  - 
+    city: "Badovinci"
+    zip_code: "15358"
+  - 
+    city: "Dublje"
+    zip_code: "15359"
+  - 
+    city: "Banovo Polje"
+    zip_code: "15362"
+  - 
+    city: "Leskovac"
+    zip_code: "16000"
+  - 
+    city: "Manojlovce"
+    zip_code: "16201"
+  - 
+    city: "Vučje"
+    zip_code: "16203"
+  - 
+    city: "Miroševce"
+    zip_code: "16204"
+  - 
+    city: "Bojnik"
+    zip_code: "16205"
+  - 
+    city: "Kosančić"
+    zip_code: "16206"
+  - 
+    city: "Vlasotince"
+    zip_code: "16210"
+  - 
+    city: "Svođe"
+    zip_code: "16212"
+  - 
+    city: "Sastav Reka"
+    zip_code: "16213"
+  - 
+    city: "Crna Trava"
+    zip_code: "16215"
+  - 
+    city: "Grdelica"
+    zip_code: "16220"
+  - 
+    city: "Velika Grabovnica"
+    zip_code: "16221"
+  - 
+    city: "Predejane"
+    zip_code: "16222"
+  - 
+    city: "Ruplje"
+    zip_code: "16223"
+  - 
+    city: "Lebane"
+    zip_code: "16230"
+  - 
+    city: "Turekovac"
+    zip_code: "16231"
+  - 
+    city: "Bosnjace"
+    zip_code: "16232"
+  - 
+    city: "Orane"
+    zip_code: "16233"
+  - 
+    city: "Medvedja"
+    zip_code: "16240"
+  - 
+    city: "Gornji Brestovac"
+    zip_code: "16244"
+  - 
+    city: "Sijarinska Banja"
+    zip_code: "16246"
+  - 
+    city: "Tulare"
+    zip_code: "16247"
+  - 
+    city: "Lece"
+    zip_code: "16248"
+  - 
+    city: "Pecanjevce"
+    zip_code: "16251"
+  - 
+    city: "Razgojna"
+    zip_code: "16252"
+  - 
+    city: "Brestovac"
+    zip_code: "16253"
+  - 
+    city: "Vranje"
+    zip_code: "17500"
+  - 
+    city: "Vlase"
+    zip_code: "17507"
+  - 
+    city: "Sveti Ilija"
+    zip_code: "17508"
+  - 
+    city: "Vladičin Han"
+    zip_code: "17510"
+  - 
+    city: "Priboj Vranjski"
+    zip_code: "17511"
+  - 
+    city: "Stubal"
+    zip_code: "17512"
+  - 
+    city: "Lepenica"
+    zip_code: "17513"
+  - 
+    city: "Džep"
+    zip_code: "17514"
+  - 
+    city: "Bujanovac"
+    zip_code: "17520"
+  - 
+    city: "Ristovac"
+    zip_code: "17521"
+  - 
+    city: "Biljaca"
+    zip_code: "17522"
+  - 
+    city: "Preševo"
+    zip_code: "17523"
+  - 
+    city: "Klenike"
+    zip_code: "17524"
+  - 
+    city: "Trgovište"
+    zip_code: "17525"
+  - 
+    city: "Donji Stajevac"
+    zip_code: "17526"
+  - 
+    city: "Muhovac"
+    zip_code: "17529"
+  - 
+    city: "Surdulica"
+    zip_code: "17530"
+  - 
+    city: "Jelašnica"
+    zip_code: "17531"
+  - 
+    city: "Vlasina Okruglica"
+    zip_code: "17532"
+  - 
+    city: "Vlasina Rid"
+    zip_code: "17533"
+  - 
+    city: "Vlasina Stojkovićevo"
+    zip_code: "17534"
+  - 
+    city: "Klisura"
+    zip_code: "17535"
+  - 
+    city: "Bozica"
+    zip_code: "17537"
+  - 
+    city: "Gornja Lisina"
+    zip_code: "17538"
+  - 
+    city: "Bosilegrad"
+    zip_code: "17540"
+  - 
+    city: "Vranjska Banja"
+    zip_code: "17542"
+  - 
+    city: "Kriva Feja"
+    zip_code: "17543"
+  - 
+    city: "Donja Ljubata"
+    zip_code: "17544"
+  - 
+    city: "Korbevac"
+    zip_code: "17545"
+  - 
+    city: "Bistar"
+    zip_code: "17546"
+  - 
+    city: "Donje Tlamino"
+    zip_code: "17547"
+  - 
+    city: "Reljan"
+    zip_code: "17556"
+  - 
+    city: "Oraovica"
+    zip_code: "17557"
+  - 
+    city: "Bujanovac"
+    zip_code: "17567"
+  - 
+    city: "Niš"
+    zip_code: "18000"
+  - 
+    city: "Lalinac"
+    zip_code: "18201"
+  - 
+    city: "Gornja Toponica"
+    zip_code: "18202"
+  - 
+    city: "Gornji Matejevac"
+    zip_code: "18204"
+  - 
+    city: "Niška Banja"
+    zip_code: "18205"
+  - 
+    city: "Jelašnica"
+    zip_code: "18206"
+  - 
+    city: "Malča"
+    zip_code: "18207"
+  - 
+    city: "Guševac"
+    zip_code: "18208"
+  - 
+    city: "Medoševac"
+    zip_code: "18209"
+  - 
+    city: "Žitkovac"
+    zip_code: "18210"
+  - 
+    city: "Trupale"
+    zip_code: "18211"
+  - 
+    city: "Tešica"
+    zip_code: "18212"
+  - 
+    city: "Gredetin"
+    zip_code: "18213"
+  - 
+    city: "Kulina"
+    zip_code: "18214"
+  - 
+    city: "Veliko Bonjince"
+    zip_code: "18215"
+  - 
+    city: "Korman"
+    zip_code: "18216"
+  - 
+    city: "Ljuberadja"
+    zip_code: "18217"
+  - 
+    city: "Grejac"
+    zip_code: "18219"
+  - 
+    city: "Aleksinac"
+    zip_code: "18220"
+  - 
+    city: "Draževac(kod Aleksinca)"
+    zip_code: "18223"
+  - 
+    city: "Rutevac"
+    zip_code: "18224"
+  - 
+    city: "Katun"
+    zip_code: "18225"
+  - 
+    city: "Aleksinacki Rudnik"
+    zip_code: "18226"
+  - 
+    city: "Subotinac"
+    zip_code: "18227"
+  - 
+    city: "Luzane"
+    zip_code: "18228"
+  - 
+    city: "Mozgovo"
+    zip_code: "18229"
+  - 
+    city: "Soko Banja"
+    zip_code: "18230"
+  - 
+    city: "Čitluk"
+    zip_code: "18232"
+  - 
+    city: "Jošanica"
+    zip_code: "18234"
+  - 
+    city: "Šarbanovac"
+    zip_code: "18235"
+  - 
+    city: "Dugo Polje"
+    zip_code: "18237"
+  - 
+    city: "Gadžin Han"
+    zip_code: "18240"
+  - 
+    city: "Gornji Barbes"
+    zip_code: "18241"
+  - 
+    city: "Donji Dušnik"
+    zip_code: "18242"
+  - 
+    city: "Zaplanjska Toponica"
+    zip_code: "18244"
+  - 
+    city: "Lički Hanovi"
+    zip_code: "18245"
+  - 
+    city: "Ravna Dubrava"
+    zip_code: "18246"
+  - 
+    city: "Novo Selo"
+    zip_code: "18250"
+  - 
+    city: "Mramor"
+    zip_code: "18251"
+  - 
+    city: "Merošina"
+    zip_code: "18252"
+  - 
+    city: "Jugbogdanovac"
+    zip_code: "18253"
+  - 
+    city: "Donje Medurovo"
+    zip_code: "18254"
+  - 
+    city: "Pukovac"
+    zip_code: "18255"
+  - 
+    city: "Balajinac"
+    zip_code: "18257"
+  - 
+    city: "Jovanovac"
+    zip_code: "18258"
+  - 
+    city: "Popovac"
+    zip_code: "18260"
+  - 
+    city: "Pirot"
+    zip_code: "18300"
+  - 
+    city: "Crnokliste"
+    zip_code: "18304"
+  - 
+    city: "Visoka Rzana"
+    zip_code: "18306"
+  - 
+    city: "Krupač"
+    zip_code: "18307"
+  - 
+    city: "Bela Palanka"
+    zip_code: "18310"
+  - 
+    city: "Sićevo"
+    zip_code: "18311"
+  - 
+    city: "Ostrovica"
+    zip_code: "18312"
+  - 
+    city: "Crvena Reka"
+    zip_code: "18313"
+  - 
+    city: "Dolac"
+    zip_code: "18314"
+  - 
+    city: "Babin Kal"
+    zip_code: "18315"
+  - 
+    city: "Dimitrovgrad"
+    zip_code: "18320"
+  - 
+    city: "Gradina"
+    zip_code: "18321"
+  - 
+    city: "Sukovo"
+    zip_code: "18322"
+  - 
+    city: "Smilovci"
+    zip_code: "18323"
+  - 
+    city: "Kamenica"
+    zip_code: "18324"
+  - 
+    city: "Poganovo"
+    zip_code: "18326"
+  - 
+    city: "Babusnica"
+    zip_code: "18330"
+  - 
+    city: "Strelac"
+    zip_code: "18332"
+  - 
+    city: "Zvonce"
+    zip_code: "18333"
+  - 
+    city: "Temska"
+    zip_code: "18355"
+  - 
+    city: "Svrljig"
+    zip_code: "18360"
+  - 
+    city: "Palilula"
+    zip_code: "18363"
+  - 
+    city: "Prekonoga"
+    zip_code: "18365"
+  - 
+    city: "Niševac"
+    zip_code: "18366"
+  - 
+    city: "Burdimo"
+    zip_code: "18368"
+  - 
+    city: "Prokuplje"
+    zip_code: "18400"
+  - 
+    city: "Velika Plana"
+    zip_code: "18403"
+  - 
+    city: "Donja Rečica"
+    zip_code: "18404"
+  - 
+    city: "Džigolj"
+    zip_code: "18405"
+  - 
+    city: "Dubovo"
+    zip_code: "18406"
+  - 
+    city: "Žitni Potok"
+    zip_code: "18407"
+  - 
+    city: "Dobri Do"
+    zip_code: "18408"
+  - 
+    city: "Kruševica"
+    zip_code: "18409"
+  - 
+    city: "Doljevac"
+    zip_code: "18410"
+  - 
+    city: "Belotinac"
+    zip_code: "18411"
+  - 
+    city: "Žitoradja"
+    zip_code: "18412"
+  - 
+    city: "Pejkovac"
+    zip_code: "18413"
+  - 
+    city: "Donje Crnatovo"
+    zip_code: "18414"
+  - 
+    city: "Malošište"
+    zip_code: "18415"
+  - 
+    city: "Cecina"
+    zip_code: "18417"
+  - 
+    city: "Blace"
+    zip_code: "18420"
+  - 
+    city: "Donja Trnava"
+    zip_code: "18421"
+  - 
+    city: "Mala Plana"
+    zip_code: "18423"
+  - 
+    city: "Beloljin"
+    zip_code: "18424"
+  - 
+    city: "Gornja Draguša"
+    zip_code: "18425"
+  - 
+    city: "Barbatovac"
+    zip_code: "18426"
+  - 
+    city: "Kuršumlija"
+    zip_code: "18430"
+  - 
+    city: "Barlovo"
+    zip_code: "18432"
+  - 
+    city: "Prolom"
+    zip_code: "18433"
+  - 
+    city: "Kuršumlijska Banja"
+    zip_code: "18435"
+  - 
+    city: "Merćez"
+    zip_code: "18436"
+  - 
+    city: "Lukovo"
+    zip_code: "18437"
+  - 
+    city: "Zuc"
+    zip_code: "18438"
+  - 
+    city: "Rača"
+    zip_code: "18440"
+  - 
+    city: "Merdare"
+    zip_code: "18445"
+  - 
+    city: "Zaječar"
+    zip_code: "19000"
+  - 
+    city: "Metovnica"
+    zip_code: "19204"
+  - 
+    city: "Gradskovo"
+    zip_code: "19205"
+  - 
+    city: "Veliki Izvor"
+    zip_code: "19206"
+  - 
+    city: "Planinica"
+    zip_code: "19207"
+  - 
+    city: "Lubnica"
+    zip_code: "19208"
+  - 
+    city: "Mali Jasenovac"
+    zip_code: "19209"
+  - 
+    city: "Bor"
+    zip_code: "19210"
+  - 
+    city: "Donja Bela Reka"
+    zip_code: "19213"
+  - 
+    city: "Rgotina"
+    zip_code: "19214"
+  - 
+    city: "Zlot"
+    zip_code: "19215"
+  - 
+    city: "Brestovačka Banja"
+    zip_code: "19216"
+  - 
+    city: "Krivelj"
+    zip_code: "19219"
+  - 
+    city: "Donji Milanovac"
+    zip_code: "19220"
+  - 
+    city: "Klokočevac"
+    zip_code: "19222"
+  - 
+    city: "Koprivnica"
+    zip_code: "19223"
+  - 
+    city: "Salaš"
+    zip_code: "19224"
+  - 
+    city: "Sikole"
+    zip_code: "19225"
+  - 
+    city: "Zvezdan"
+    zip_code: "19227"
+  - 
+    city: "Gamzigradska Banja"
+    zip_code: "19228"
+  - 
+    city: "Borski Brestovac"
+    zip_code: "19229"
+  - 
+    city: "Borsko Bucje"
+    zip_code: "19231"
+  - 
+    city: "Luka"
+    zip_code: "19234"
+  - 
+    city: "Velika Jasikova"
+    zip_code: "19235"
+  - 
+    city: "Halovo"
+    zip_code: "19236"
+  - 
+    city: "Majdanpek"
+    zip_code: "19250"
+  - 
+    city: "Rudna Glava"
+    zip_code: "19257"
+  - 
+    city: "Negotin"
+    zip_code: "19300"
+  - 
+    city: "Štubik"
+    zip_code: "19303"
+  - 
+    city: "Jabukovac"
+    zip_code: "19304"
+  - 
+    city: "Urovica"
+    zip_code: "19305"
+  - 
+    city: "Trnjane"
+    zip_code: "19306"
+  - 
+    city: "Nikolićevo"
+    zip_code: "19311"
+  - 
+    city: "Vražogrnac"
+    zip_code: "19312"
+  - 
+    city: "Brusnik"
+    zip_code: "19313"
+  - 
+    city: "Rajac"
+    zip_code: "19314"
+  - 
+    city: "Bracevac"
+    zip_code: "19315"
+  - 
+    city: "Kobišnica"
+    zip_code: "19316"
+  - 
+    city: "Mokranja"
+    zip_code: "19317"
+  - 
+    city: "Rogljevo"
+    zip_code: "19318"
+  - 
+    city: "Kladovo"
+    zip_code: "19320"
+  - 
+    city: "Podvrška"
+    zip_code: "19321"
+  - 
+    city: "Mihajlovac"
+    zip_code: "19322"
+  - 
+    city: "Brza Palanka"
+    zip_code: "19323"
+  - 
+    city: "Slatina"
+    zip_code: "19324"
+  - 
+    city: "Tekija"
+    zip_code: "19325"
+  - 
+    city: "Sip"
+    zip_code: "19326"
+  - 
+    city: "Velesnica"
+    zip_code: "19328"
+  - 
+    city: "Korbovo"
+    zip_code: "19329"
+  - 
+    city: "Prahovo"
+    zip_code: "19330"
+  - 
+    city: "Radujevac"
+    zip_code: "19334"
+  - 
+    city: "Dušanovac"
+    zip_code: "19335"
+  - 
+    city: "Minićevo"
+    zip_code: "19340"
+  - 
+    city: "Grljan"
+    zip_code: "19341"
+  - 
+    city: "Grlište"
+    zip_code: "19342"
+  - 
+    city: "Lenovac"
+    zip_code: "19343"
+  - 
+    city: "Vratarnica"
+    zip_code: "19344"
+  - 
+    city: "Donje Zuniće"
+    zip_code: "19345"
+  - 
+    city: "Mali Izvor"
+    zip_code: "19347"
+  - 
+    city: "Knjaževac"
+    zip_code: "19350"
+  - 
+    city: "Donja Kamenica"
+    zip_code: "19352"
+  - 
+    city: "Kalna"
+    zip_code: "19353"
+  - 
+    city: "Podvis"
+    zip_code: "19362"
+  - 
+    city: "Beli Potok"
+    zip_code: "19366"
+  - 
+    city: "Vasilj"
+    zip_code: "19367"
+  - 
+    city: "Bucje"
+    zip_code: "19369"
+  - 
+    city: "Boljevac"
+    zip_code: "19370"
+  - 
+    city: "Lukovo"
+    zip_code: "19371"
+  - 
+    city: "Bogovina"
+    zip_code: "19372"
+  - 
+    city: "Šarbanovac"
+    zip_code: "19373"
+  - 
+    city: "Krivi Vir"
+    zip_code: "19375"
+  - 
+    city: "Sumrakovac"
+    zip_code: "19376"
+  - 
+    city: "Savinac"
+    zip_code: "19377"
+  - 
+    city: "Osnić"
+    zip_code: "19378"
+  - 
+    city: "Šarbanovac Timok"
+    zip_code: "19379"
+  - 
+    city: "Novi Sad"
+    zip_code: "21000"
+  - 
+    city: "Petrovaradin"
+    zip_code: "21131"
+  - 
+    city: "Rumenka"
+    zip_code: "21201"
+  - 
+    city: "Veternik"
+    zip_code: "21203"
+  - 
+    city: "Sremski Karlovci"
+    zip_code: "21205"
+  - 
+    city: "Stari Ledinci"
+    zip_code: "21206"
+  - 
+    city: "Ledinci"
+    zip_code: "21207"
+  - 
+    city: "Sremska Kamenica"
+    zip_code: "21208"
+  - 
+    city: "Bukovac"
+    zip_code: "21209"
+  - 
+    city: "Kisač"
+    zip_code: "21211"
+  - 
+    city: "Stepanovićevo"
+    zip_code: "21212"
+  - 
+    city: "Zmajevo"
+    zip_code: "21213"
+  - 
+    city: "Sirig"
+    zip_code: "21214"
+  - 
+    city: "Turija"
+    zip_code: "21215"
+  - 
+    city: "Nadalj"
+    zip_code: "21216"
+  - 
+    city: "Bačko Gradište"
+    zip_code: "21217"
+  - 
+    city: "Bečej"
+    zip_code: "21220"
+  - 
+    city: "Radičević"
+    zip_code: "21225"
+  - 
+    city: "Bačko Petrovo Selo"
+    zip_code: "21226"
+  - 
+    city: "Mileševo"
+    zip_code: "21227"
+  - 
+    city: "Žabalj"
+    zip_code: "21230"
+  - 
+    city: "Čenej"
+    zip_code: "21233"
+  - 
+    city: "Bački Jarak"
+    zip_code: "21234"
+  - 
+    city: "Temerin"
+    zip_code: "21235"
+  - 
+    city: "Gospođinci"
+    zip_code: "21237"
+  - 
+    city: "Čurug"
+    zip_code: "21238"
+  - 
+    city: "Đurdjevo"
+    zip_code: "21239"
+  - 
+    city: "Titel"
+    zip_code: "21240"
+  - 
+    city: "Kać"
+    zip_code: "21241"
+  - 
+    city: "Budisava"
+    zip_code: "21242"
+  - 
+    city: "Kovilj"
+    zip_code: "21243"
+  - 
+    city: "Šajkaš"
+    zip_code: "21244"
+  - 
+    city: "Mošorin"
+    zip_code: "21245"
+  - 
+    city: "Vilovo"
+    zip_code: "21246"
+  - 
+    city: "Gardinovci"
+    zip_code: "21247"
+  - 
+    city: "Lok"
+    zip_code: "21248"
+  - 
+    city: "Rakovac"
+    zip_code: "21299"
+  - 
+    city: "Beočin"
+    zip_code: "21300"
+  - 
+    city: "Čerević"
+    zip_code: "21311"
+  - 
+    city: "Banoštor"
+    zip_code: "21312"
+  - 
+    city: "Susek"
+    zip_code: "21313"
+  - 
+    city: "Neštin"
+    zip_code: "21314"
+  - 
+    city: "Lug"
+    zip_code: "21315"
+  - 
+    city: "Bačka Palanka"
+    zip_code: "21400"
+  - 
+    city: "Futog"
+    zip_code: "21410"
+  - 
+    city: "Begeč"
+    zip_code: "21411"
+  - 
+    city: "Gložan"
+    zip_code: "21412"
+  - 
+    city: "Čelarevo"
+    zip_code: "21413"
+  - 
+    city: "Bač"
+    zip_code: "21420"
+  - 
+    city: "Karađorđevo"
+    zip_code: "21421"
+  - 
+    city: "Mladenovo"
+    zip_code: "21422"
+  - 
+    city: "Obrovac"
+    zip_code: "21423"
+  - 
+    city: "Tovariševo"
+    zip_code: "21424"
+  - 
+    city: "Selenča"
+    zip_code: "21425"
+  - 
+    city: "Vajska"
+    zip_code: "21426"
+  - 
+    city: "Bodjani"
+    zip_code: "21427"
+  - 
+    city: "Plavna"
+    zip_code: "21428"
+  - 
+    city: "Bačko Novo Selo"
+    zip_code: "21429"
+  - 
+    city: "Nova Gajdobra"
+    zip_code: "21431"
+  - 
+    city: "Gajdobra"
+    zip_code: "21432"
+  - 
+    city: "Silbaš"
+    zip_code: "21433"
+  - 
+    city: "Parage"
+    zip_code: "21434"
+  - 
+    city: "Vrbas"
+    zip_code: "21460"
+  - 
+    city: "Bačko Dobro Polje"
+    zip_code: "21465"
+  - 
+    city: "Kucura"
+    zip_code: "21466"
+  - 
+    city: "Savino Selo"
+    zip_code: "21467"
+  - 
+    city: "Despotovo"
+    zip_code: "21468"
+  - 
+    city: "Pivnice"
+    zip_code: "21469"
+  - 
+    city: "Bački Petrovac"
+    zip_code: "21470"
+  - 
+    city: "Ravno Selo"
+    zip_code: "21471"
+  - 
+    city: "Kulpin"
+    zip_code: "21472"
+  - 
+    city: "Maglić"
+    zip_code: "21473"
+  - 
+    city: "Srbobran"
+    zip_code: "21480"
+  - 
+    city: "Sremska Mitrovica"
+    zip_code: "22000"
+  - 
+    city: "Zasavica"
+    zip_code: "22201"
+  - 
+    city: "Mačvanska Mitrovica"
+    zip_code: "22202"
+  - 
+    city: "Noćaj"
+    zip_code: "22203"
+  - 
+    city: "Salaš Noćajski"
+    zip_code: "22204"
+  - 
+    city: "Ravnje"
+    zip_code: "22205"
+  - 
+    city: "Radenković"
+    zip_code: "22206"
+  - 
+    city: "Ležimir"
+    zip_code: "22207"
+  - 
+    city: "Mandjelos"
+    zip_code: "22208"
+  - 
+    city: "Veliki Radinci"
+    zip_code: "22211"
+  - 
+    city: "Bešenovo"
+    zip_code: "22212"
+  - 
+    city: "Grgurevci"
+    zip_code: "22213"
+  - 
+    city: "Bosut"
+    zip_code: "22217"
+  - 
+    city: "Laćarak"
+    zip_code: "22221"
+  - 
+    city: "Martinci"
+    zip_code: "22222"
+  - 
+    city: "Kuzmin"
+    zip_code: "22223"
+  - 
+    city: "Kukujevci"
+    zip_code: "22224"
+  - 
+    city: "Bacinci"
+    zip_code: "22225"
+  - 
+    city: "Erdevik"
+    zip_code: "22230"
+  - 
+    city: "Čalma"
+    zip_code: "22231"
+  - 
+    city: "Divoš"
+    zip_code: "22232"
+  - 
+    city: "Šid"
+    zip_code: "22240"
+  - 
+    city: "Vasica"
+    zip_code: "22241"
+  - 
+    city: "Berkasovo"
+    zip_code: "22242"
+  - 
+    city: "Sot"
+    zip_code: "22243"
+  - 
+    city: "Adasevci"
+    zip_code: "22244"
+  - 
+    city: "Morović"
+    zip_code: "22245"
+  - 
+    city: "Višnjićevo"
+    zip_code: "22246"
+  - 
+    city: "Sremska Rača"
+    zip_code: "22247"
+  - 
+    city: "Jamena"
+    zip_code: "22248"
+  - 
+    city: "Ilinci"
+    zip_code: "22250"
+  - 
+    city: "Batrovci"
+    zip_code: "22251"
+  - 
+    city: "Bingula"
+    zip_code: "22253"
+  - 
+    city: "Bikić Do"
+    zip_code: "22254"
+  - 
+    city: "Ljuba"
+    zip_code: "22255"
+  - 
+    city: "Molovin"
+    zip_code: "22256"
+  - 
+    city: "Privina Glava"
+    zip_code: "22257"
+  - 
+    city: "Gibarac"
+    zip_code: "22258"
+  - 
+    city: "Stara Pazova"
+    zip_code: "22300"
+  - 
+    city: "Banovci Dunav"
+    zip_code: "22303"
+  - 
+    city: "Novi Banovci"
+    zip_code: "22304"
+  - 
+    city: "Stari Banovci"
+    zip_code: "22305"
+  - 
+    city: "Belegiš"
+    zip_code: "22306"
+  - 
+    city: "Surduk"
+    zip_code: "22307"
+  - 
+    city: "Golubinci"
+    zip_code: "22308"
+  - 
+    city: "Šimanovci"
+    zip_code: "22310"
+  - 
+    city: "Vojka"
+    zip_code: "22313"
+  - 
+    city: "Krnješevci"
+    zip_code: "22314"
+  - 
+    city: "Inđija"
+    zip_code: "22320"
+  - 
+    city: "Ljukovo"
+    zip_code: "22321"
+  - 
+    city: "Novi Karlovci"
+    zip_code: "22322"
+  - 
+    city: "Novi Slankamen"
+    zip_code: "22323"
+  - 
+    city: "Beška"
+    zip_code: "22324"
+  - 
+    city: "Krčedin"
+    zip_code: "22325"
+  - 
+    city: "Čortanovci"
+    zip_code: "22326"
+  - 
+    city: "Maradik"
+    zip_code: "22327"
+  - 
+    city: "Krušedol"
+    zip_code: "22328"
+  - 
+    city: "Stari Slankamen"
+    zip_code: "22329"
+  - 
+    city: "Nova Pazova"
+    zip_code: "22330"
+  - 
+    city: "Ruma"
+    zip_code: "22400"
+  - 
+    city: "Putinci"
+    zip_code: "22404"
+  - 
+    city: "Stejanovci"
+    zip_code: "22405"
+  - 
+    city: "Irig"
+    zip_code: "22406"
+  - 
+    city: "Vrdnik"
+    zip_code: "22408"
+  - 
+    city: "Jazak"
+    zip_code: "22409"
+  - 
+    city: "Pećinci"
+    zip_code: "22410"
+  - 
+    city: "Kraljevci"
+    zip_code: "22411"
+  - 
+    city: "Dobrinci"
+    zip_code: "22412"
+  - 
+    city: "Sremski Mihaljevci"
+    zip_code: "22413"
+  - 
+    city: "Subotište"
+    zip_code: "22414"
+  - 
+    city: "Ogar"
+    zip_code: "22416"
+  - 
+    city: "Obrez"
+    zip_code: "22417"
+  - 
+    city: "Asanja"
+    zip_code: "22418"
+  - 
+    city: "Kupinovo"
+    zip_code: "22419"
+  - 
+    city: "Platičevo"
+    zip_code: "22420"
+  - 
+    city: "Budjanovci"
+    zip_code: "22421"
+  - 
+    city: "Nikinci"
+    zip_code: "22422"
+  - 
+    city: "Grabovci"
+    zip_code: "22423"
+  - 
+    city: "Klenak"
+    zip_code: "22424"
+  - 
+    city: "Šašinci"
+    zip_code: "22425"
+  - 
+    city: "Hrtkovci"
+    zip_code: "22427"
+  - 
+    city: "Popinci"
+    zip_code: "22428"
+  - 
+    city: "Voganj"
+    zip_code: "22429"
+  - 
+    city: "Vitojevci"
+    zip_code: "22431"
+  - 
+    city: "Sibač"
+    zip_code: "22440"
+  - 
+    city: "Dec"
+    zip_code: "22441"
+  - 
+    city: "Prhovo"
+    zip_code: "22442"
+  - 
+    city: "Karlovčić"
+    zip_code: "22443"
+  - 
+    city: "Zrenjanin"
+    zip_code: "23000"
+  - 
+    city: "Mihajlovo"
+    zip_code: "23202"
+  - 
+    city: "Ečka"
+    zip_code: "23203"
+  - 
+    city: "Stajićevo"
+    zip_code: "23204"
+  - 
+    city: "Belo Blato"
+    zip_code: "23205"
+  - 
+    city: "Muzlja"
+    zip_code: "23206"
+  - 
+    city: "Aradac"
+    zip_code: "23207"
+  - 
+    city: "Elemir"
+    zip_code: "23208"
+  - 
+    city: "Taraš"
+    zip_code: "23209"
+  - 
+    city: "Žitište"
+    zip_code: "23210"
+  - 
+    city: "Klek"
+    zip_code: "23211"
+  - 
+    city: "Ravni Topolovac"
+    zip_code: "23212"
+  - 
+    city: "Banatski Dvor"
+    zip_code: "23213"
+  - 
+    city: "Torda"
+    zip_code: "23214"
+  - 
+    city: "Cestereg"
+    zip_code: "23215"
+  - 
+    city: "Banatsko Karađorđevo"
+    zip_code: "23216"
+  - 
+    city: "Aleksandrovo"
+    zip_code: "23217"
+  - 
+    city: "Nova Crnja"
+    zip_code: "23218"
+  - 
+    city: "Vojvoda Stepa"
+    zip_code: "23219"
+  - 
+    city: "Srpska Crnja"
+    zip_code: "23220"
+  - 
+    city: "Radojevo"
+    zip_code: "23221"
+  - 
+    city: "Toba"
+    zip_code: "23222"
+  - 
+    city: "Lukino Selo"
+    zip_code: "23224"
+  - 
+    city: "Jaša Tomić"
+    zip_code: "23230"
+  - 
+    city: "Krajišnik"
+    zip_code: "23231"
+  - 
+    city: "Begejci"
+    zip_code: "23232"
+  - 
+    city: "Srpski Itebej"
+    zip_code: "23233"
+  - 
+    city: "Medja"
+    zip_code: "23234"
+  - 
+    city: "Hetin"
+    zip_code: "23235"
+  - 
+    city: "Novi Itebej"
+    zip_code: "23236"
+  - 
+    city: "Banatsko Višnjićevo"
+    zip_code: "23237"
+  - 
+    city: "Sečanj"
+    zip_code: "23240"
+  - 
+    city: "Lazarevo"
+    zip_code: "23241"
+  - 
+    city: "Banatski Despotovac"
+    zip_code: "23242"
+  - 
+    city: "Botos"
+    zip_code: "23243"
+  - 
+    city: "Sutjeska"
+    zip_code: "23244"
+  - 
+    city: "Neuzina"
+    zip_code: "23245"
+  - 
+    city: "Jarkovac"
+    zip_code: "23250"
+  - 
+    city: "Banatska Dubica"
+    zip_code: "23251"
+  - 
+    city: "Boka"
+    zip_code: "23252"
+  - 
+    city: "Konak"
+    zip_code: "23253"
+  - 
+    city: "Surjan"
+    zip_code: "23254"
+  - 
+    city: "Zlatica"
+    zip_code: "23255"
+  - 
+    city: "Perlez"
+    zip_code: "23260"
+  - 
+    city: "Lukićevo"
+    zip_code: "23261"
+  - 
+    city: "Tomaševac"
+    zip_code: "23262"
+  - 
+    city: "Orlovat"
+    zip_code: "23263"
+  - 
+    city: "Farkaždin"
+    zip_code: "23264"
+  - 
+    city: "Knićanin"
+    zip_code: "23265"
+  - 
+    city: "Ćenta"
+    zip_code: "23266"
+  - 
+    city: "Melenci"
+    zip_code: "23270"
+  - 
+    city: "Kumane"
+    zip_code: "23271"
+  - 
+    city: "Novi Bečej"
+    zip_code: "23272"
+  - 
+    city: "Novo Miloševo"
+    zip_code: "23273"
+  - 
+    city: "Bocar"
+    zip_code: "23274"
+  - 
+    city: "Kikinda"
+    zip_code: "23300"
+  - 
+    city: "Mokrin"
+    zip_code: "23305"
+  - 
+    city: "Nakovo"
+    zip_code: "23311"
+  - 
+    city: "Banatsko Veliko Selo"
+    zip_code: "23312"
+  - 
+    city: "Novi Kozarci"
+    zip_code: "23313"
+  - 
+    city: "Rusko Selo"
+    zip_code: "23314"
+  - 
+    city: "Banatska Topola"
+    zip_code: "23315"
+  - 
+    city: "Basaid"
+    zip_code: "23316"
+  - 
+    city: "Čoka"
+    zip_code: "23320"
+  - 
+    city: "Iđos"
+    zip_code: "23323"
+  - 
+    city: "Sajan"
+    zip_code: "23324"
+  - 
+    city: "Padej"
+    zip_code: "23325"
+  - 
+    city: "Ostojićevo"
+    zip_code: "23326"
+  - 
+    city: "Jazovo"
+    zip_code: "23327"
+  - 
+    city: "Crna Bara"
+    zip_code: "23328"
+  - 
+    city: "Vrbica"
+    zip_code: "23329"
+  - 
+    city: "Novi Kneževac"
+    zip_code: "23330"
+  - 
+    city: "Sanad"
+    zip_code: "23331"
+  - 
+    city: "Banatsko Arandjelovo"
+    zip_code: "23332"
+  - 
+    city: "Majdan"
+    zip_code: "23333"
+  - 
+    city: "Srpski Krstur"
+    zip_code: "23334"
+  - 
+    city: "Đala"
+    zip_code: "23335"
+  - 
+    city: "Subotica"
+    zip_code: "24000"
+  - 
+    city: "Kelebija"
+    zip_code: "24104"
+  - 
+    city: "Kelebija-granični prelaz"
+    zip_code: "24205"
+  - 
+    city: "Bikovo"
+    zip_code: "24206"
+  - 
+    city: "Orom"
+    zip_code: "24207"
+  - 
+    city: "Bajmok"
+    zip_code: "24210"
+  - 
+    city: "Mišićevo"
+    zip_code: "24211"
+  - 
+    city: "Đurđin"
+    zip_code: "24213"
+  - 
+    city: "Tavankut"
+    zip_code: "24214"
+  - 
+    city: "Ljutovo"
+    zip_code: "24215"
+  - 
+    city: "Mala Bosna"
+    zip_code: "24217"
+  - 
+    city: "Čantavir"
+    zip_code: "24220"
+  - 
+    city: "Višnjevac"
+    zip_code: "24222"
+  - 
+    city: "Novi Zednik"
+    zip_code: "24223"
+  - 
+    city: "Stari Žednik"
+    zip_code: "24224"
+  - 
+    city: "Bačka Topola"
+    zip_code: "24300"
+  - 
+    city: "Karadjordjevo"
+    zip_code: "24308"
+  - 
+    city: "Mali Beograd"
+    zip_code: "24309"
+  - 
+    city: "Njegoševo"
+    zip_code: "24311"
+  - 
+    city: "Gunaroš"
+    zip_code: "24312"
+  - 
+    city: "Pobeda"
+    zip_code: "24313"
+  - 
+    city: "Mali Idjoš"
+    zip_code: "24321"
+  - 
+    city: "Lovćenac"
+    zip_code: "24322"
+  - 
+    city: "Feketić"
+    zip_code: "24323"
+  - 
+    city: "Panonija"
+    zip_code: "24330"
+  - 
+    city: "Bajša"
+    zip_code: "24331"
+  - 
+    city: "Stara Moravica"
+    zip_code: "24340"
+  - 
+    city: "Krivaja"
+    zip_code: "24341"
+  - 
+    city: "Pačir"
+    zip_code: "24342"
+  - 
+    city: "Bački Sokolac"
+    zip_code: "24343"
+  - 
+    city: "Oresković"
+    zip_code: "24344"
+  - 
+    city: "Novo Orahovo"
+    zip_code: "24351"
+  - 
+    city: "Tornjoš"
+    zip_code: "24352"
+  - 
+    city: "Senta"
+    zip_code: "24400"
+  - 
+    city: "Gornji Breg"
+    zip_code: "24406"
+  - 
+    city: "Kevi"
+    zip_code: "24407"
+  - 
+    city: "Bogaras"
+    zip_code: "24408"
+  - 
+    city: "Horgoš"
+    zip_code: "24410"
+  - 
+    city: "Horgoš Granični Prelaz"
+    zip_code: "24411"
+  - 
+    city: "Palić"
+    zip_code: "24413"
+  - 
+    city: "Hajdukovo"
+    zip_code: "24414"
+  - 
+    city: "Bački Vinogradi"
+    zip_code: "24415"
+  - 
+    city: "Male Pijace"
+    zip_code: "24416"
+  - 
+    city: "Martonoš"
+    zip_code: "24417"
+  - 
+    city: "Kanjiža"
+    zip_code: "24420"
+  - 
+    city: "Adorjan"
+    zip_code: "24425"
+  - 
+    city: "Tresnjevac"
+    zip_code: "24426"
+  - 
+    city: "Totovo Selo"
+    zip_code: "24427"
+  - 
+    city: "Ada"
+    zip_code: "24430"
+  - 
+    city: "Mol"
+    zip_code: "24435"
+  - 
+    city: "Utrine"
+    zip_code: "24437"
+  - 
+    city: "Sombor"
+    zip_code: "25000"
+  - 
+    city: "Conoplja"
+    zip_code: "25210"
+  - 
+    city: "Svetozar Miletić"
+    zip_code: "25211"
+  - 
+    city: "Aleksa Santic"
+    zip_code: "25212"
+  - 
+    city: "Crvenka"
+    zip_code: "25220"
+  - 
+    city: "Kljajićevo"
+    zip_code: "25221"
+  - 
+    city: "Telečka"
+    zip_code: "25222"
+  - 
+    city: "Sivac"
+    zip_code: "25223"
+  - 
+    city: "Nova Crvenka"
+    zip_code: "25224"
+  - 
+    city: "Krusčić"
+    zip_code: "25225"
+  - 
+    city: "Kula"
+    zip_code: "25230"
+  - 
+    city: "Lipar"
+    zip_code: "25232"
+  - 
+    city: "Ruski Krstur"
+    zip_code: "25233"
+  - 
+    city: "Lalić"
+    zip_code: "25234"
+  - 
+    city: "Stapar"
+    zip_code: "25240"
+  - 
+    city: "Bački Brestovac"
+    zip_code: "25242"
+  - 
+    city: "Doroslovo"
+    zip_code: "25243"
+  - 
+    city: "Srpski Miletić"
+    zip_code: "25244"
+  - 
+    city: "Bogojevo"
+    zip_code: "25245"
+  - 
+    city: "Odzaci"
+    zip_code: "25250"
+  - 
+    city: "Bački Gracac"
+    zip_code: "25252"
+  - 
+    city: "Ratkovo"
+    zip_code: "25253"
+  - 
+    city: "Deronje"
+    zip_code: "25254"
+  - 
+    city: "Karavukovo"
+    zip_code: "25255"
+  - 
+    city: "Apatin"
+    zip_code: "25260"
+  - 
+    city: "Kupušina"
+    zip_code: "25262"
+  - 
+    city: "Prigrevica"
+    zip_code: "25263"
+  - 
+    city: "Sonta"
+    zip_code: "25264"
+  - 
+    city: "Svilojevo"
+    zip_code: "25265"
+  - 
+    city: "Bezdan"
+    zip_code: "25270"
+  - 
+    city: "Bački Monostor"
+    zip_code: "25272"
+  - 
+    city: "Kolut"
+    zip_code: "25274"
+  - 
+    city: "Bački Breg"
+    zip_code: "25275"
+  - 
+    city: "Ridjica"
+    zip_code: "25280"
+  - 
+    city: "Gakovo"
+    zip_code: "25282"
+  - 
+    city: "Rastina"
+    zip_code: "25283"
+  - 
+    city: "Stanišić"
+    zip_code: "25284"
+  - 
+    city: "Pančevo"
+    zip_code: "26000"
+  - 
+    city: "Jabuka"
+    zip_code: "26201"
+  - 
+    city: "Glogonj"
+    zip_code: "26202"
+  - 
+    city: "Sefkerin"
+    zip_code: "26203"
+  - 
+    city: "Opovo"
+    zip_code: "26204"
+  - 
+    city: "Baranda"
+    zip_code: "26205"
+  - 
+    city: "Sakule"
+    zip_code: "26206"
+  - 
+    city: "Idvor"
+    zip_code: "26207"
+  - 
+    city: "Kovačica"
+    zip_code: "26210"
+  - 
+    city: "Kačarevo"
+    zip_code: "26212"
+  - 
+    city: "Crepaja"
+    zip_code: "26213"
+  - 
+    city: "Padina"
+    zip_code: "26215"
+  - 
+    city: "Uzdin"
+    zip_code: "26216"
+  - 
+    city: "Kovin"
+    zip_code: "26220"
+  - 
+    city: "Bavanište"
+    zip_code: "26222"
+  - 
+    city: "Gaj"
+    zip_code: "26223"
+  - 
+    city: "Dubovac"
+    zip_code: "26224"
+  - 
+    city: "Deliblato"
+    zip_code: "26225"
+  - 
+    city: "Mramorak"
+    zip_code: "26226"
+  - 
+    city: "Dolovo"
+    zip_code: "26227"
+  - 
+    city: "Skorenovac"
+    zip_code: "26228"
+  - 
+    city: "Pločica"
+    zip_code: "26229"
+  - 
+    city: "Omoljica"
+    zip_code: "26230"
+  - 
+    city: "Starčevo"
+    zip_code: "26232"
+  - 
+    city: "Ivanovo"
+    zip_code: "26233"
+  - 
+    city: "Banatski Brestovac"
+    zip_code: "26234"
+  - 
+    city: "Vršac"
+    zip_code: "26300"
+  - 
+    city: "Alibunar"
+    zip_code: "26310"
+  - 
+    city: "Banatsko Novo Selo"
+    zip_code: "26314"
+  - 
+    city: "Vladimirovac"
+    zip_code: "26315"
+  - 
+    city: "Devojački Bunar"
+    zip_code: "26316"
+  - 
+    city: "Banatski Karlovac"
+    zip_code: "26320"
+  - 
+    city: "Nikolinci"
+    zip_code: "26322"
+  - 
+    city: "Crvena Crkva"
+    zip_code: "26323"
+  - 
+    city: "Banatska Palanka"
+    zip_code: "26324"
+  - 
+    city: "Banatska Subotica"
+    zip_code: "26327"
+  - 
+    city: "Dupljaja"
+    zip_code: "26328"
+  - 
+    city: "Kajtasovo"
+    zip_code: "26329"
+  - 
+    city: "Uljma"
+    zip_code: "26330"
+  - 
+    city: "Ritisevo"
+    zip_code: "26331"
+  - 
+    city: "Vlajkovac"
+    zip_code: "26332"
+  - 
+    city: "Pavliš"
+    zip_code: "26333"
+  - 
+    city: "Veliko Središte"
+    zip_code: "26334"
+  - 
+    city: "Gudurica"
+    zip_code: "26335"
+  - 
+    city: "Kuštilj"
+    zip_code: "26336"
+  - 
+    city: "Vatin"
+    zip_code: "26337"
+  - 
+    city: "Vojvodinci"
+    zip_code: "26338"
+  - 
+    city: "Bela Crkva"
+    zip_code: "26340"
+  - 
+    city: "Izbište"
+    zip_code: "26343"
+  - 
+    city: "Straža"
+    zip_code: "26345"
+  - 
+    city: "Jasenovo"
+    zip_code: "26346"
+  - 
+    city: "Grebenac"
+    zip_code: "26347"
+  - 
+    city: "Vračev Gaj"
+    zip_code: "26348"
+  - 
+    city: "Kusić"
+    zip_code: "26349"
+  - 
+    city: "Samoš"
+    zip_code: "26350"
+  - 
+    city: "Seleuš"
+    zip_code: "26351"
+  - 
+    city: "Ilandža"
+    zip_code: "26352"
+  - 
+    city: "Novi Kozjak"
+    zip_code: "26353"
+  - 
+    city: "Dobrica"
+    zip_code: "26354"
+  - 
+    city: "Plandište"
+    zip_code: "26360"
+  - 
+    city: "Lokve"
+    zip_code: "26361"
+  - 
+    city: "Janošik"
+    zip_code: "26362"
+  - 
+    city: "Jermenovci"
+    zip_code: "26363"
+  - 
+    city: "Margita"
+    zip_code: "26364"
+  - 
+    city: "Veliki Gaj"
+    zip_code: "26365"
+  - 
+    city: "Velika Greda"
+    zip_code: "26366"
+  - 
+    city: "Barice"
+    zip_code: "26367"
+  - 
+    city: "Kupinik"
+    zip_code: "26368"
+  - 
+    city: "Hajdučica"
+    zip_code: "26370"
+  - 
+    city: "Stari Lec"
+    zip_code: "26371"
+  - 
+    city: "Miletićevo"
+    zip_code: "26373"
+  - 
+    city: "Kruščica"
+    zip_code: "26380"
+  - 
+    city: "Užice"
+    zip_code: "31000"
+  - 
+    city: "Lunovo Selo"
+    zip_code: "31203"
+  - 
+    city: "Karan"
+    zip_code: "31204"
+  - 
+    city: "Sevojno"
+    zip_code: "31205"
+  - 
+    city: "Ravni"
+    zip_code: "31206"
+  - 
+    city: "Sirogojno"
+    zip_code: "31207"
+  - 
+    city: "Rožanstvo"
+    zip_code: "31208"
+  - 
+    city: "Ljubiš"
+    zip_code: "31209"
+  - 
+    city: "Požega"
+    zip_code: "31210"
+  - 
+    city: "Ježevica"
+    zip_code: "31213"
+  - 
+    city: "Gornja Dobrinja"
+    zip_code: "31214"
+  - 
+    city: "Jelen Do"
+    zip_code: "31215"
+  - 
+    city: "Arilje"
+    zip_code: "31230"
+  - 
+    city: "Kruščica"
+    zip_code: "31233"
+  - 
+    city: "Brekovo"
+    zip_code: "31234"
+  - 
+    city: "Divljaka"
+    zip_code: "31236"
+  - 
+    city: "Roge"
+    zip_code: "31237"
+  - 
+    city: "Bioska"
+    zip_code: "31241"
+  - 
+    city: "Kremna"
+    zip_code: "31242"
+  - 
+    city: "Mokra Gora"
+    zip_code: "31243"
+  - 
+    city: "Šljivovica"
+    zip_code: "31244"
+  - 
+    city: "Bajina Bašta"
+    zip_code: "31250"
+  - 
+    city: "Mitrovac"
+    zip_code: "31251"
+  - 
+    city: "Zlodol"
+    zip_code: "31253"
+  - 
+    city: "Kostojevići"
+    zip_code: "31254"
+  - 
+    city: "Rogačica"
+    zip_code: "31255"
+  - 
+    city: "Perućac"
+    zip_code: "31256"
+  - 
+    city: "Kaluđerske Bare"
+    zip_code: "31257"
+  - 
+    city: "Bačevci"
+    zip_code: "31258"
+  - 
+    city: "Kosjerić"
+    zip_code: "31260"
+  - 
+    city: "Seča Reka"
+    zip_code: "31262"
+  - 
+    city: "Varda"
+    zip_code: "31263"
+  - 
+    city: "Ražana"
+    zip_code: "31265"
+  - 
+    city: "Prijepolje"
+    zip_code: "31300"
+  - 
+    city: "Brodarevo"
+    zip_code: "31305"
+  - 
+    city: "Jabuka"
+    zip_code: "31306"
+  - 
+    city: "Aljinovici"
+    zip_code: "31307"
+  - 
+    city: "Čajetina"
+    zip_code: "31310"
+  - 
+    city: "Bela Zemlja"
+    zip_code: "31311"
+  - 
+    city: "Mačkat"
+    zip_code: "31312"
+  - 
+    city: "Gostilje"
+    zip_code: "31313"
+  - 
+    city: "Jablanica"
+    zip_code: "31314"
+  - 
+    city: "Zlatibor"
+    zip_code: "31315"
+  - 
+    city: "Draglica"
+    zip_code: "31317"
+  - 
+    city: "Kokin Brod"
+    zip_code: "31318"
+  - 
+    city: "Jasenovo"
+    zip_code: "31319"
+  - 
+    city: "Nova Varoš"
+    zip_code: "31320"
+  - 
+    city: "Bozetici"
+    zip_code: "31322"
+  - 
+    city: "Bistrica"
+    zip_code: "31325"
+  - 
+    city: "Priboj"
+    zip_code: "31330"
+  - 
+    city: "Sastavci"
+    zip_code: "31335"
+  - 
+    city: "Banja Kod Priboja"
+    zip_code: "31337"
+  - 
+    city: "Čačak"
+    zip_code: "32000"
+  - 
+    city: "Trbušani"
+    zip_code: "32205"
+  - 
+    city: "Kamenica"
+    zip_code: "32206"
+  - 
+    city: "Mrčajevci"
+    zip_code: "32210"
+  - 
+    city: "Mojsinje"
+    zip_code: "32211"
+  - 
+    city: "Preljina"
+    zip_code: "32212"
+  - 
+    city: "Bresnica"
+    zip_code: "32213"
+  - 
+    city: "Gornja Trepca"
+    zip_code: "32215"
+  - 
+    city: "Trnava"
+    zip_code: "32221"
+  - 
+    city: "Ježevica"
+    zip_code: "32222"
+  - 
+    city: "Zablaće"
+    zip_code: "32223"
+  - 
+    city: "Slatina"
+    zip_code: "32224"
+  - 
+    city: "Goričani"
+    zip_code: "32225"
+  - 
+    city: "Guča"
+    zip_code: "32230"
+  - 
+    city: "Goračići"
+    zip_code: "32232"
+  - 
+    city: "Kaona"
+    zip_code: "32234"
+  - 
+    city: "Kotraža"
+    zip_code: "32235"
+  - 
+    city: "Lučani"
+    zip_code: "32240"
+  - 
+    city: "Ovčar Banja"
+    zip_code: "32242"
+  - 
+    city: "Markovica"
+    zip_code: "32243"
+  - 
+    city: "Ivanjica"
+    zip_code: "32250"
+  - 
+    city: "Bukovica"
+    zip_code: "32251"
+  - 
+    city: "Prilicki Kiseljak"
+    zip_code: "32252"
+  - 
+    city: "Brezova"
+    zip_code: "32253"
+  - 
+    city: "Vionica"
+    zip_code: "32254"
+  - 
+    city: "Medjurečje"
+    zip_code: "32255"
+  - 
+    city: "Bratljevo"
+    zip_code: "32256"
+  - 
+    city: "Kovilje"
+    zip_code: "32257"
+  - 
+    city: "Kušići"
+    zip_code: "32258"
+  - 
+    city: "Bele Vode"
+    zip_code: "32259"
+  - 
+    city: "Gornji Milanovac"
+    zip_code: "32300"
+  - 
+    city: "Brđani"
+    zip_code: "32303"
+  - 
+    city: "Takovo"
+    zip_code: "32304"
+  - 
+    city: "Bersici"
+    zip_code: "32305"
+  - 
+    city: "Gornji Banjani"
+    zip_code: "32306"
+  - 
+    city: "Brezna"
+    zip_code: "32307"
+  - 
+    city: "Pranjani"
+    zip_code: "32308"
+  - 
+    city: "Šilopaj"
+    zip_code: "32311"
+  - 
+    city: "Boljkovci"
+    zip_code: "32312"
+  - 
+    city: "Rudnik"
+    zip_code: "32313"
+  - 
+    city: "Ugrinovci"
+    zip_code: "32314"
+  - 
+    city: "Vračevšnica"
+    zip_code: "32315"
+  - 
+    city: "Kragujevac"
+    zip_code: "34000"
+  - 
+    city: "Grosnica"
+    zip_code: "34202"
+  - 
+    city: "Ilićevo"
+    zip_code: "34203"
+  - 
+    city: "Divostin"
+    zip_code: "34204"
+  - 
+    city: "Bare"
+    zip_code: "34205"
+  - 
+    city: "Gornja Sabanta"
+    zip_code: "34206"
+  - 
+    city: "Erdec"
+    zip_code: "34207"
+  - 
+    city: "Marsic"
+    zip_code: "34209"
+  - 
+    city: "Rača Kragujevačka"
+    zip_code: "34210"
+  - 
+    city: "Jovanovac"
+    zip_code: "34211"
+  - 
+    city: "Malo Krcmare"
+    zip_code: "34212"
+  - 
+    city: "Veliko Krčmare"
+    zip_code: "34214"
+  - 
+    city: "Đurdjevo"
+    zip_code: "34215"
+  - 
+    city: "Male Pčelice"
+    zip_code: "34216"
+  - 
+    city: "Bukurovac"
+    zip_code: "34217"
+  - 
+    city: "Lapovo"
+    zip_code: "34220"
+  - 
+    city: "Lapovo Selo"
+    zip_code: "34223"
+  - 
+    city: "Korman"
+    zip_code: "34224"
+  - 
+    city: "Resnik"
+    zip_code: "34225"
+  - 
+    city: "Badnjevac"
+    zip_code: "34226"
+  - 
+    city: "Batočina"
+    zip_code: "34227"
+  - 
+    city: "Brzan"
+    zip_code: "34228"
+  - 
+    city: "Zirovnica"
+    zip_code: "34229"
+  - 
+    city: "Gruza"
+    zip_code: "34230"
+  - 
+    city: "Dragobraca"
+    zip_code: "34231"
+  - 
+    city: "Guberevac"
+    zip_code: "34232"
+  - 
+    city: "Knić"
+    zip_code: "34240"
+  - 
+    city: "Bumbarevo Brdo"
+    zip_code: "34242"
+  - 
+    city: "Toponica"
+    zip_code: "34243"
+  - 
+    city: "Zabojnica"
+    zip_code: "34244"
+  - 
+    city: "Arandjelovac"
+    zip_code: "34300"
+  - 
+    city: "Bukovik"
+    zip_code: "34301"
+  - 
+    city: "Ranilovic"
+    zip_code: "34302"
+  - 
+    city: "Arandjelovac"
+    zip_code: "34303"
+  - 
+    city: "Banja"
+    zip_code: "34304"
+  - 
+    city: "Darosava"
+    zip_code: "34305"
+  - 
+    city: "Vencane"
+    zip_code: "34306"
+  - 
+    city: "Stojnik"
+    zip_code: "34307"
+  - 
+    city: "Orašac"
+    zip_code: "34308"
+  - 
+    city: "Jelovik"
+    zip_code: "34309"
+  - 
+    city: "Topola"
+    zip_code: "34310"
+  - 
+    city: "Belosavci"
+    zip_code: "34312"
+  - 
+    city: "Natalinci"
+    zip_code: "34313"
+  - 
+    city: "Donja Satornja"
+    zip_code: "34314"
+  - 
+    city: "Jarmenovci"
+    zip_code: "34318"
+  - 
+    city: "Desimirovac"
+    zip_code: "34321"
+  - 
+    city: "Čumić"
+    zip_code: "34322"
+  - 
+    city: "Stragari"
+    zip_code: "34323"
+  - 
+    city: "Lužnice"
+    zip_code: "34325"
+  - 
+    city: "Jagodina"
+    zip_code: "35000"
+  - 
+    city: "Siokovac"
+    zip_code: "35203"
+  - 
+    city: "Bagrdan"
+    zip_code: "35204"
+  - 
+    city: "Jovac"
+    zip_code: "35205"
+  - 
+    city: "Raševica"
+    zip_code: "35206"
+  - 
+    city: "Potočac"
+    zip_code: "35207"
+  - 
+    city: "Vojska"
+    zip_code: "35208"
+  - 
+    city: "Subotica Kod Svilajnca"
+    zip_code: "35209"
+  - 
+    city: "Svilajnac"
+    zip_code: "35210"
+  - 
+    city: "Sedlare"
+    zip_code: "35211"
+  - 
+    city: "Plažane"
+    zip_code: "35212"
+  - 
+    city: "Despotovac"
+    zip_code: "35213"
+  - 
+    city: "Stenjevac"
+    zip_code: "35215"
+  - 
+    city: "Bobovo"
+    zip_code: "35217"
+  - 
+    city: "Končarevo"
+    zip_code: "35219"
+  - 
+    city: "Ribare"
+    zip_code: "35220"
+  - 
+    city: "Glogovac"
+    zip_code: "35222"
+  - 
+    city: "Veliki Popović"
+    zip_code: "35223"
+  - 
+    city: "Medvedja"
+    zip_code: "35224"
+  - 
+    city: "Kušiljevo"
+    zip_code: "35226"
+  - 
+    city: "Krušar"
+    zip_code: "35227"
+  - 
+    city: "Supska"
+    zip_code: "35228"
+  - 
+    city: "Ćuprija"
+    zip_code: "35230"
+  - 
+    city: "Senje"
+    zip_code: "35233"
+  - 
+    city: "Senjski Rudnik"
+    zip_code: "35234"
+  - 
+    city: "Ravna Reka"
+    zip_code: "35235"
+  - 
+    city: "Mijatovac"
+    zip_code: "35236"
+  - 
+    city: "Resavica"
+    zip_code: "35237"
+  - 
+    city: "Bigrenica"
+    zip_code: "35238"
+  - 
+    city: "Jasenovo"
+    zip_code: "35241"
+  - 
+    city: "Kolare"
+    zip_code: "35242"
+  - 
+    city: "Plana"
+    zip_code: "35247"
+  - 
+    city: "Trešnjevica"
+    zip_code: "35248"
+  - 
+    city: "Busilovac"
+    zip_code: "35249"
+  - 
+    city: "Paraćin"
+    zip_code: "35250"
+  - 
+    city: "Popovac"
+    zip_code: "35254"
+  - 
+    city: "Donja Mutnica"
+    zip_code: "35255"
+  - 
+    city: "Sikirica"
+    zip_code: "35256"
+  - 
+    city: "Drenovac"
+    zip_code: "35257"
+  - 
+    city: "Donje Vidovo"
+    zip_code: "35258"
+  - 
+    city: "Svojnovo"
+    zip_code: "35259"
+  - 
+    city: "Rekovac"
+    zip_code: "35260"
+  - 
+    city: "Glavinci"
+    zip_code: "35261"
+  - 
+    city: "Dragoševac"
+    zip_code: "35262"
+  - 
+    city: "Belusic"
+    zip_code: "35263"
+  - 
+    city: "Prevešt"
+    zip_code: "35264"
+  - 
+    city: "Dragovo"
+    zip_code: "35265"
+  - 
+    city: "Oparić"
+    zip_code: "35267"
+  - 
+    city: "Miloševo"
+    zip_code: "35268"
+  - 
+    city: "Strižilo"
+    zip_code: "35269"
+  - 
+    city: "Majur"
+    zip_code: "35270"
+  - 
+    city: "Novo Lanište"
+    zip_code: "35271"
+  - 
+    city: "Dragocvet"
+    zip_code: "35272"
+  - 
+    city: "Bunar"
+    zip_code: "35273"
+  - 
+    city: "Kraljevo"
+    zip_code: "36000"
+  - 
+    city: "Mataruška Banja"
+    zip_code: "36201"
+  - 
+    city: "Samaila"
+    zip_code: "36202"
+  - 
+    city: "Adrani"
+    zip_code: "36203"
+  - 
+    city: "Lađevci"
+    zip_code: "36204"
+  - 
+    city: "Roćevci"
+    zip_code: "36205"
+  - 
+    city: "Vitanovac"
+    zip_code: "36206"
+  - 
+    city: "Vitkovac"
+    zip_code: "36207"
+  - 
+    city: "Sirča"
+    zip_code: "36208"
+  - 
+    city: "Vrnjačka Banja"
+    zip_code: "36210"
+  - 
+    city: "Ratina"
+    zip_code: "36212"
+  - 
+    city: "Vrba"
+    zip_code: "36214"
+  - 
+    city: "Podunavci"
+    zip_code: "36215"
+  - 
+    city: "Novo Selo"
+    zip_code: "36216"
+  - 
+    city: "Vrnjci"
+    zip_code: "36217"
+  - 
+    city: "Čukojevac"
+    zip_code: "36220"
+  - 
+    city: "Zica"
+    zip_code: "36221"
+  - 
+    city: "Rudno"
+    zip_code: "36222"
+  - 
+    city: "Novi Pazar"
+    zip_code: "36300"
+  - 
+    city: "Dezeva"
+    zip_code: "36305"
+  - 
+    city: "Lukare"
+    zip_code: "36306"
+  - 
+    city: "Delimede"
+    zip_code: "36307"
+  - 
+    city: "Sopoćani"
+    zip_code: "36308"
+  - 
+    city: "Ribarice"
+    zip_code: "36309"
+  - 
+    city: "Sjenica"
+    zip_code: "36310"
+  - 
+    city: "Štavalj"
+    zip_code: "36311"
+  - 
+    city: "Duga Poljana"
+    zip_code: "36312"
+  - 
+    city: "Ugao"
+    zip_code: "36313"
+  - 
+    city: "Tutin"
+    zip_code: "36320"
+  - 
+    city: "Crkvine"
+    zip_code: "36321"
+  - 
+    city: "Konarevo"
+    zip_code: "36340"
+  - 
+    city: "Bogutovac"
+    zip_code: "36341"
+  - 
+    city: "Ušće"
+    zip_code: "36342"
+  - 
+    city: "Studenica"
+    zip_code: "36343"
+  - 
+    city: "Baljevac Na Ibru"
+    zip_code: "36344"
+  - 
+    city: "Jošanicka Banja"
+    zip_code: "36345"
+  - 
+    city: "Brvenik"
+    zip_code: "36346"
+  - 
+    city: "Raška"
+    zip_code: "36350"
+  - 
+    city: "Rudnica"
+    zip_code: "36353"
+  - 
+    city: "Kopaonik"
+    zip_code: "36354"
+  - 
+    city: "Kruševac"
+    zip_code: "37000"
+  - 
+    city: "Parunovac"
+    zip_code: "37201"
+  - 
+    city: "Djunis"
+    zip_code: "37202"
+  - 
+    city: "Zdravinje"
+    zip_code: "37203"
+  - 
+    city: "Veliki Siljegovac"
+    zip_code: "37204"
+  - 
+    city: "Ribarska Banja"
+    zip_code: "37205"
+  - 
+    city: "Dvorane"
+    zip_code: "37206"
+  - 
+    city: "Veliko Golovode"
+    zip_code: "37207"
+  - 
+    city: "Čitluk"
+    zip_code: "37208"
+  - 
+    city: "Velika Lomnica"
+    zip_code: "37209"
+  - 
+    city: "Ćićevac"
+    zip_code: "37210"
+  - 
+    city: "Stalać"
+    zip_code: "37212"
+  - 
+    city: "Vitosevac"
+    zip_code: "37213"
+  - 
+    city: "Pojate"
+    zip_code: "37214"
+  - 
+    city: "Ražanj"
+    zip_code: "37215"
+  - 
+    city: "Brus"
+    zip_code: "37220"
+  - 
+    city: "Gornji Stepos"
+    zip_code: "37221"
+  - 
+    city: "Kupci"
+    zip_code: "37222"
+  - 
+    city: "Razbojna"
+    zip_code: "37223"
+  - 
+    city: "Lepenac"
+    zip_code: "37224"
+  - 
+    city: "Brzeće"
+    zip_code: "37225"
+  - 
+    city: "Blazevo"
+    zip_code: "37226"
+  - 
+    city: "Milentija"
+    zip_code: "37227"
+  - 
+    city: "Zlatari"
+    zip_code: "37228"
+  - 
+    city: "Grasevci"
+    zip_code: "37229"
+  - 
+    city: "Aleksandrovac"
+    zip_code: "37230"
+  - 
+    city: "Pepeljevac"
+    zip_code: "37231"
+  - 
+    city: "Laćisled"
+    zip_code: "37232"
+  - 
+    city: "Velika Vrbnica"
+    zip_code: "37233"
+  - 
+    city: "Gornji Stupanj"
+    zip_code: "37234"
+  - 
+    city: "Trnavci"
+    zip_code: "37235"
+  - 
+    city: "Rataje"
+    zip_code: "37236"
+  - 
+    city: "Ploča"
+    zip_code: "37237"
+  - 
+    city: "Ples"
+    zip_code: "37238"
+  - 
+    city: "Šljivovo"
+    zip_code: "37239"
+  - 
+    city: "Trstenik"
+    zip_code: "37240"
+  - 
+    city: "Stopanja"
+    zip_code: "37242"
+  - 
+    city: "Počekovina"
+    zip_code: "37243"
+  - 
+    city: "Medvedja"
+    zip_code: "37244"
+  - 
+    city: "Velika Drenova"
+    zip_code: "37245"
+  - 
+    city: "Milutovac"
+    zip_code: "37246"
+  - 
+    city: "Globoder"
+    zip_code: "37251"
+  - 
+    city: "Jasika"
+    zip_code: "37252"
+  - 
+    city: "Bela Voda"
+    zip_code: "37253"
+  - 
+    city: "Konjuh"
+    zip_code: "37254"
+  - 
+    city: "Kukljin"
+    zip_code: "37255"
+  - 
+    city: "Kaonik"
+    zip_code: "37256"
+  - 
+    city: "Padež"
+    zip_code: "37257"
+  - 
+    city: "Donji Krcin"
+    zip_code: "37258"
+  - 
+    city: "Ribare"
+    zip_code: "37259"
+  - 
+    city: "Varvarin"
+    zip_code: "37260"
+  - 
+    city: "Bosnjane"
+    zip_code: "37262"
+  - 
+    city: "Bačina"
+    zip_code: "37265"
+  - 
+    city: "Obrez"
+    zip_code: "37266"
+  - 
+    city: "Dasnica"
+    zip_code: "37271"
+  - 
+    city: "Osreci"
+    zip_code: "37281"
+  - 
+    city: "Kriva Reka"
+    zip_code: "37282"
+  - 
+    city: "Brezovica"
+    zip_code: "38157"
+  - 
+    city: "Gracanica"
+    zip_code: "38205"
+  - 
+    city: "Kosovo Polje"
+    zip_code: "38210"
+  - 
+    city: "Prilužje"
+    zip_code: "38213"
+  - 
+    city: "Banjska"
+    zip_code: "38216"
+  - 
+    city: "Sočanica"
+    zip_code: "38217"
+  - 
+    city: "Leposavić"
+    zip_code: "38218"
+  - 
+    city: "Lešak"
+    zip_code: "38219"
+  - 
+    city: "Kosovska Mitrovica"
+    zip_code: "38220"
+  - 
+    city: "Zvecan"
+    zip_code: "38227"
+  - 
+    city: "Zubin Potok"
+    zip_code: "38228"
+  - 
+    city: "Štrpce"
+    zip_code: "38236"
+  - 
+    city: "Drajkovce"
+    zip_code: "38239"
+  - 
+    city: "Pasjane"
+    zip_code: "38266"
+  - 
+    city: "Ranilug"
+    zip_code: "38267"
+  - 
+    city: "Brestac"
+    zip_code: "B22415"
+
